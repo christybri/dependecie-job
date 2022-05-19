@@ -1,0 +1,2 @@
+# dependecie-job
+isolate
